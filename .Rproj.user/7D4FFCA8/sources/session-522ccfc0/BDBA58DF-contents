@@ -1,0 +1,37 @@
+---
+title: "Jongjin Kim"
+author: "Data Scientist | Ph.D. Candidate in Big Data Analytics"
+output:
+  html_document:
+    toc: false
+    theme: flatly
+    css: "style.css"
+    includes:
+      in_header: "font_awesome.html"
+---
+
+
+<div class="container">
+  <div class="hero-section">
+    <div class="hero-text">
+      <h1>Jongjin Kim</h1>
+      <p>Data Scientist with expertise in big data analytics, machine learning, and statistical modeling. Over 5 years of experience delivering solutions using Python, R, and MATLAB.</p>
+      <p>I have authored several publications and led multiple research projects in data science and AI. Currently focused on uncertainty quantification and time-series analysis.</p>
+      <a href="#" class="learn-more">Learn more →</a>
+    </div>
+    
+    <div class="hero-image">
+      <img src="your-image.jpg" alt="Jongjin Kim">
+    </div>
+  </div>
+</div>
+
+---
+
+<div class="subscribe">
+  <p>Subscribe to Jongjin's letters</p>
+  <form>
+    <input type="email" placeholder="Your email...">
+    <button type="submit">Subscribe</button>
+  </form>
+</div>
