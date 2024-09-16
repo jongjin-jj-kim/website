@@ -28,6 +28,17 @@ sections:
     title: "\U0001F4DA My Mission"
   design:
     columns: "1"
+- block: collection
+  content:
+    filters:
+      folders:
+      - teaching
+    title: Featured Teachings
+  design:
+    column: 2
+    view: article-grid
+  id: teaching
+
 #- block: collection
 #  content:
 #    filters:

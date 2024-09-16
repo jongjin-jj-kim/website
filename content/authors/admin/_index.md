@@ -36,7 +36,7 @@ education:
   institution: University of Central Florida
   summary: |
     GPA: 3.95/4.0
-    Thesis on _Bayesian Latent Modeling_. Supervised by [Prof Mengyu Xu](https://sciences.ucf.edu/statistics/person/mengyu-xu/).
+    Thesis on _Bayesian Latent Modeling_. Supervised by Professor Mengyu Xu.
 - area: MS Statistics and Data Science
   date_end: "2023-12-31"
   date_start: "2020-08-24"
@@ -62,7 +62,7 @@ education:
   summary: |
     GPA: 3.9/4.0
 
-    Thesis on _An EEG Test Environment Design for Measuring and Analyzing the Brain on Mental Rotation Task_. Supervised by [Prof Hanhyuk Cho](https://www.researchgate.net/profile/Han-Cho).
+    Thesis on _An EEG Test Environment Design for Measuring and Analyzing the Brain on Mental Rotation Task_. Supervised by Professor Hanhyuk Cho.
 - area: BS Mathematical Science
   date_end: "2004-03-01"
   date_start: "2008-08-31"
@@ -95,6 +95,9 @@ profiles:
   url: https://www.linkedin.com/in/jongjin-kim-652749234/
 - icon: academicons/orcid
   url: https://orcid.org/0009-0006-0459-8574
+- icon: star
+  label: RateMyProfessor
+  url: https://www.ratemyprofessors.com/professor/2963870
 role: Data Scientist
 skills:
 - items:
@@ -104,16 +107,39 @@ skills:
     percent: 100
   - description: ""
     icon: code-bracket
+    name: R Shiny
+    percent: 80
+  - description: ""
+    icon: brands/python
     name: Python
     percent: 80
+  - description: ""
+#    icon: circle-stack
+    icon: brands/sql
+    name: SQL
+    percent: 40
+  - description: ""
+#    icon: circle-stack
+    icon: code-bracket
+    name: SAS
+    percent: 60
+  - description: ""
+#    icon: circle-stack
+    icon: code-bracket
+    name: MATLAB
+    percent: 40
   - description: ""
     icon: chart-bar
     name: Data Science
     percent: 100
   - description: ""
-    icon: circle-stack
-    name: SQL
-    percent: 40
+    icon: chart-bar
+    name: Statistical Modeling
+    percent: 100
+  - description: ""
+    icon: chart-bar
+    name: Bayesian Statistics
+    percent: 80
   name: Technical Skills
 status:
   icon: ⭐
